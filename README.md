@@ -85,7 +85,7 @@ I recommend:
 ## Keeping your Journal Up to date
 
 Once you clone down your Journal and start editing it I will want to see it.
-So you need to upload (push) your new journal entry's up to GitHub (the remote).
+So you need to "push" your new journal entry's up to GitHub (the remote).
 To do this each lecture or unit you will need to follow the same flow.
 While learning Git is important you only need to know the following commands for this class.
 
@@ -96,6 +96,13 @@ git push
 ```
 
 > ⚠️ Each commit needs to have a custom and descriptive message.
+
+### DON'T DO THIS
+
+The main point of this journal is to learn Git.
+**DO NOT** use the "Add file" button on GitHub.com **USE GIT COMMANDS**.
+
+![Add Button](instructions/addButton.webp)
 
 ## Rubric
 
